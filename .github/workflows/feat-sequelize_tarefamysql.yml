@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'TarefaMysql'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47692E634EDB4838BB9AF3AD187FCC5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7054641918B9418BB5A47AE13092FA45 }}
           package: .
